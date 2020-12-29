@@ -1,4 +1,5 @@
 import React, { Component } from 'react';
+import MenuPage from './menu';
 
 class Main extends Component {
 
@@ -6,7 +7,7 @@ class Main extends Component {
         return(
             <div>
                 <h1>Yummy Yummy Kitchen</h1>
-                <p>paragraphh textttttttttt</p>
+                <MenuPage />
             </div>
         )
     }
