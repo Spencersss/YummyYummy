@@ -11,3 +11,11 @@ ul, ol {
 img {
     padding-bottom: 20px;
 }
+
+#navbar {
+    padding: 10px
+}
+
+#pageContainer {
+    padding-top: 20px;
+}
